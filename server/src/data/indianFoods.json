@@ -1,0 +1,26 @@
+[
+	{
+		"name": "roti",
+		"unit": "1 piece",
+		"calories": 120,
+		"protein": 3,
+		"carbs": 18,
+		"fat": 3
+	},
+	{
+		"name": "paneer",
+		"unit": "100g",
+		"calories": 265,
+		"protein": 18,
+		"carbs": 6,
+		"fat": 20
+	},
+	{
+		"name": "rice",
+		"unit": "100g cooked",
+		"calories": 130,
+		"protein": 2.4,
+		"carbs": 28,
+		"fat": 0.3
+	}
+]
